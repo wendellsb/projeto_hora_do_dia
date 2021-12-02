@@ -2,12 +2,19 @@ Este projeto tem por finalidade extrair a hora do dia do sistema e informar ao u
 
 
         ***********************************************
-        *               Primeira tela                 *
+        *            Primeira tela - Manha            *
         ***********************************************
 
 
 
 
         ***********************************************
-        *               Segunda tela                 *
+        *            Segunda tela - Tarde             *
+        ***********************************************
+
+
+
+
+        ***********************************************
+        *            Terceira tela - Noite            *
         ***********************************************
