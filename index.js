@@ -12,7 +12,6 @@ function pagina() {
         msg.innerHTML = `Bom dia ${nome}, agora são ${hora}:${minutos} horas da manhã.`
         img.src = 'manha.png'
         document.body.style.background = '#f2da90'
-
     } else if(hora >= 12 && hora < 18){
         msg.innerHTML = `Boa tarde ${nome}, agora são ${hora}:${minutos} horas da tarde.`
         img.src = 'tarde.png'
